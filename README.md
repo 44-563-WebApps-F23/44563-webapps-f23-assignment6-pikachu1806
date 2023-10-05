@@ -3,3 +3,8 @@
 # WebApps-F23-Assignment-6
 
 Introduction to Java Script and DOM
+
+Hosted at -
+- **Author:** https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-pikachu1806/author.html
+- **Tips:**  https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-pikachu1806/tips.html
+- **Cruise:**  https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-pikachu1806/cruise.html
